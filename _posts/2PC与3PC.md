@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      2PC与3PC
+subtitle:   分布式一致性原理
+date:       2019-12-04
+author:     Ling
+catalog: true
+tags:
+    - 分布式
+    - 分布式一致性协议
+---
 # 2PC与3PC整理
 > 2PC，3PC受设计局限没有得到很好的应用，但是学习其基本概念对于理解分布式一致性还是有一定的帮助，本文核心的角度对两个算法进行整理，只为个人记录。
 ## 2PC
